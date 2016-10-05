@@ -12,8 +12,8 @@ See `complete` branch for answers.
 
 #ls
 
-The 'ls' terminal command lists all the files in your current directory.
+The `ls` terminal command lists all the files in your current directory.
 
-'''
+```
 ls
-'''
+```
