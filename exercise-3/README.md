@@ -17,3 +17,5 @@ The `ls` terminal command lists all the files in your current directory.
 ```
 ls
 ```
+
+Please go here if you want more information please go [here](https://www.techonthenet.com/unix/basic/ls.php)
