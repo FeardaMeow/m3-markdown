@@ -14,7 +14,7 @@ See `complete` branch for answers.
 
 The `ls` terminal command lists all the files in your current directory.
 
-```
+```linux
 ls
 ```
 
